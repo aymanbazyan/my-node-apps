@@ -1,3 +1,5 @@
-# My Node Apps
+get the key from the firebase console and type the bucket storage name in the config.env
 
-check branches
+- npm i
+
+- backup.js
